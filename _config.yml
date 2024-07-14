@@ -22,20 +22,19 @@ repository               : "CoSunshine/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Liuhuo"
+  name             : "Liuhuo Wan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Cyber security"
+  location         : "Australia"
+  employer         : "University of Queensland"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wanliuhuo@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.au/citations?user=4nWdmS4AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
