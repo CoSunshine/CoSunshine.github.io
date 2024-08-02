@@ -19,16 +19,13 @@ During my spare time, I enjoy swimming and biking.
 Publications
 ======
 
-SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation. 
-
+[SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation.](https://dl.acm.org/doi/abs/10.1007/978-3-031-22064-7_11) \
 **Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22
 
-Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace. 
-
+[Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://dl.acm.org/doi/abs/10.1145/3589334.3645697) \
 **Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
 
-Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations. 
-
+[Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations.](https://dl.acm.org/doi/10.1145/3589334.3645721) \
 **Liuhuo Wan**, Kailong Wang, Kulani Mahadewa, Haoyu Wang, Guangdong Bai. The Web Conference, **WWW**'24
 
 
