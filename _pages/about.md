@@ -18,20 +18,27 @@ During my spare time, I enjoy swimming and biking.
 
 Publications
 ======
-SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation. **Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22
 
-Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace. **Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
+SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation. 
 
-Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations. **Liuhuo Wan**, Kailong Wang, Kulani Mahadewa, Haoyu Wang, Guangdong Bai. The Web Conference, **WWW**'24
+**Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22
+
+Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace. 
+
+**Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
+
+Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations. 
+
+**Liuhuo Wan**, Kailong Wang, Kulani Mahadewa, Haoyu Wang, Guangdong Bai. The Web Conference, **WWW**'24
 
 
 
 Teaching
 ======
 
-2022: CSSE7610 - Concurrency: Theory and Practice
+2022: CSSE7610 - **Concurrency: Theory and Practice**
 
-2023: COMP3320 - Vulnerability Assessment and Penetration Testing
+2023: COMP3320 - **Vulnerability Assessment and Penetration Testing**
 
 
 
