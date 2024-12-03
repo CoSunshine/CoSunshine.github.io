@@ -20,7 +20,7 @@ Publications
 ======
 
 **First author** 
-======
+===
 [SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation.](https://dl.acm.org/doi/abs/10.1007/978-3-031-22064-7_11) \
 **Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22
 
