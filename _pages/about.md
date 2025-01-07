@@ -36,7 +36,7 @@ Publications
 ## NON-FIRST AUTHOR \
 [Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security.](https://dl.acm.org/doi/pdf/10.1145/3691620.3695510) \
 Chuan Yan, Ruomai Ren, Mark Huasong Meng, **Liuhuo Wan**, Tian Yang Ooi, Guangdong Bai. 
-International Conference on Automated Software Engineering. **ASE**'25
+International Conference on Automated Software Engineering. **ASE**'25 <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
 
 
 Teaching
