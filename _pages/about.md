@@ -19,10 +19,10 @@ During my spare time, I enjoy swimming, biking and hiking.
 Publications
 ======
 
-## FIRST AUTHOR \
+## FIRST AUTHOR 
 
 [SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation.](https://dl.acm.org/doi/abs/10.1007/978-3-031-22064-7_11) \
-**Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22
+**Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22. <span style="color:red"> Best Paper Runner Up Award </span>
 
 [Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://dl.acm.org/doi/abs/10.1145/3589334.3645697) \
 **Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
@@ -33,10 +33,11 @@ Publications
 [Analyzing Excessive Permission Requests in Google Workspace Add-Ons.](https://link.springer.com/chapter/10.1007/978-3-031-66456-4_18) \
 **Liuhuo Wan**, Chuan Yan, Mark Huasong Meng, Kailong Wang, Haoyu Wang. International Conference on Engineering of Complex Computer Systems. **ICECCS**'24
 
-## NON-FIRST AUTHOR \
+## NON-FIRST AUTHOR 
+
 [Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security.](https://dl.acm.org/doi/pdf/10.1145/3691620.3695510) \
 Chuan Yan, Ruomai Ren, Mark Huasong Meng, **Liuhuo Wan**, Tian Yang Ooi, Guangdong Bai. 
-International Conference on Automated Software Engineering. **ASE**'25 <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
+International Conference on Automated Software Engineering. **ASE**'25. <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
 
 
 Teaching
