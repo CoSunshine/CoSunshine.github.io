@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "2023"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+venue: "University of Queensland, School of Electrical Engineering and Computer Science"
+date: 2023
+location: "Brisbane, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+COMP3320 - Vulnerability Assessment and Penetration Testing
 
 Heading 1
 ======
