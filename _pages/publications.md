@@ -10,24 +10,33 @@ author_profile: true
 {% endif %}
 
 
-## FIRST AUTHOR 
+## IoT Security 
 
-[SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation.](https://dl.acm.org/doi/abs/10.1007/978-3-031-22064-7_11) \
-**Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22. <span style="color:red"> Best Paper Runner Up Award </span>
-
-[Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://dl.acm.org/doi/abs/10.1145/3589334.3645697) \
-**Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
-
-[Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations.](https://dl.acm.org/doi/10.1145/3589334.3645721) \
+[Don't Bite Off More than You Can Chew: Investigating Excessive Permission Requests in Trigger-Action Integrations.](https://cosunshine.github.io/files/dont-bit-off.pdf) \
 **Liuhuo Wan**, Kailong Wang, Kulani Mahadewa, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
 
-[Analyzing Excessive Permission Requests in Google Workspace Add-Ons.](https://link.springer.com/chapter/10.1007/978-3-031-66456-4_18) \
+[SATB: A Testbed of IoT-Based Smart Agriculture Network for Dataset Generation.](https://cosunshine.github.io/files/Smart_Agriculture_Dataset_Paper.pdf) \
+**Liuhuo Wan**, Yanjun Zhang, Ruiqing Li, Ryan Ko, Louw Hoffman, Guangdong Bai. International Conference on Advanced Data Mining and Applications. **ADMA**'22. <span style="color:red"> Best Paper Runner Up Award </span>
+
+## Web Security 
+
+[Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://cosunshine.github.io/files/is-it-safe.pdf) \
+**Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
+
+[Analyzing Excessive Permission Requests in Google Workspace Add-Ons.](https://cosunshine.github.io/files/BCP_excessive.pdf) \
 **Liuhuo Wan**, Chuan Yan, Mark Huasong Meng, Kailong Wang, Haoyu Wang. International Conference on Engineering of Complex Computer Systems. **ICECCS**'24
 
-## NON-FIRST AUTHOR 
+## ChatGPT App security
 
-[Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security.](https://dl.acm.org/doi/pdf/10.1145/3691620.3695510) \
+[Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security.](https://cosunshine.github.io/files/chatgpt-app.pdf) \
 Chuan Yan, Ruomai Ren, Mark Huasong Meng, **Liuhuo Wan**, Tian Yang Ooi, Guangdong Bai. 
 International Conference on Automated Software Engineering. **ASE**'25. <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
+
+## Mobile Security
+
+[WinSpy: Cross-window Side-channel Attacks on Android’s Multi-window Mode.](https://cosunshine.github.io/files/chatgpt-app.pdf) \
+Zeng Li, Chuan Yan, **Liuhuo Wan**, Hui Zhuang, Pengfei Hu, Guangdong Bai, Yiran Shen. 
+International Conference on Mobile Computing and Networking. **MobiCom**'25
+
 
 
