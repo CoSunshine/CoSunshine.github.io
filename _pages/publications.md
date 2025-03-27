@@ -28,9 +28,14 @@ author_profile: true
 
 ## ChatGPT App security
 
+[Understanding and Detecting File Knowledge Leakage in GPT App Ecosystem.](https://cosunshine.github.io/files/chatgpt-file-leakage.pdf) \
+Chuan Yan, Bowei Guan, Yazhi Li, Mark Huasong Meng, **Liuhuo Wan**, Guangdong Bai. 
+The ACM Web Conference 2025. **WWW**'25
+
 [Exploring ChatGPT App Ecosystem: Distribution, Deployment and Security.](https://cosunshine.github.io/files/chatgpt-app.pdf) \
 Chuan Yan, Ruomai Ren, Mark Huasong Meng, **Liuhuo Wan**, Tian Yang Ooi, Guangdong Bai. 
-International Conference on Automated Software Engineering. **ASE**'25. <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
+International Conference on Automated Software Engineering. **ASE**'24. <span style="color:red"> ACM SIGSOFT Distinguished Paper Award </span>
+
 
 ## Mobile Security
 
