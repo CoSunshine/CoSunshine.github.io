@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my [CV](https://cosunshine.github.io/files/Resume_updated.pdf) here 
+
+
 Education
 ======
 * Ph.D in Cyber Security, The University of Queensland, 2025 (expected)
