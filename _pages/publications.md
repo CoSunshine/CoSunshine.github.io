@@ -20,6 +20,9 @@ author_profile: true
 
 ## Web Security 
 
+[Understanding DevOps Security of Google Workspace Apps.](https://CoSunshine.github.io/files/BCP_excessive.pdf) \
+**Liuhuo Wan**, Chuan Yan, Zicong Liu, Haoyu Wang, Guangdong Bai. International Conference on Software Engineering. **ICSE**'26
+
 [Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://cosunshine.github.io/files/is-it-safe.pdf) \
 **Liuhuo Wan**, Kailong Wang, Haoyu Wang, Guangdong Bai. The Web Conference. **WWW**'24
 
@@ -27,6 +30,11 @@ author_profile: true
 **Liuhuo Wan**, Chuan Yan, Mark Huasong Meng, Kailong Wang, Haoyu Wang. International Conference on Engineering of Complex Computer Systems. **ICECCS**'24
 
 ## ChatGPT App security
+
+[Tracking Third-Party Services in GPTs: Automation, Analysis, and Insights.](https://dl.acm.org/doi/abs/10.1145/3696630.3728711) \
+Chuan Yan, **Liuhuo Wan**, Bowei Guan, Fengqi Yu, Guangdong Bai.  
+International Conference on the Foundations of Software Engineering. **FSE Companion**'25
+
 
 [Understanding and Detecting File Knowledge Leakage in GPT App Ecosystem.](https://cosunshine.github.io/files/chatgpt-file-leakage.pdf) \
 Chuan Yan, Bowei Guan, Yazhi Li, Mark Huasong Meng, **Liuhuo Wan**, Guangdong Bai. 
