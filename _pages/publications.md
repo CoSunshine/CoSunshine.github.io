@@ -47,7 +47,7 @@ International Conference on Automated Software Engineering. **ASE**'24. <span st
 
 ## Mobile Security
 
-[WinSpy: Cross-window Side-channel Attacks on Android’s Multi-window Mode.](https://cosunshine.github.io/files/chatgpt-app.pdf) \
+[WinSpy: Cross-window Side-channel Attacks on Android’s Multi-window Mode.](https://cosunshine.github.io/files/winspy.pdf) \
 Zeng Li, Chuan Yan, **Liuhuo Wan**, Hui Zhuang, Pengfei Hu, Guangdong Bai, Yiran Shen. 
 International Conference on Mobile Computing and Networking. **MobiCom**'25
 
