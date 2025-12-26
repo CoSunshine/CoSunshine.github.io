@@ -20,7 +20,7 @@ author_profile: true
 
 ## Web Security 
 
-[Understanding DevOps Security of Google Workspace Apps.](https://CoSunshine.github.io/files/BCP_excessive.pdf) \
+[Understanding DevOps Security of Google Workspace Apps.](https://CoSunshine.github.io/files/understanding_DevOps_security.pdf) \
 **Liuhuo Wan**, Chuan Yan, Zicong Liu, Haoyu Wang, Guangdong Bai. International Conference on Software Engineering. **ICSE**'26
 
 [Is It Safe to Share Your Files? An Empirical Security Analysis of Google Workspace.](https://cosunshine.github.io/files/is-it-safe.pdf) \
