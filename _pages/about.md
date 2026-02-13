@@ -46,6 +46,15 @@ Teaching
 2023: COMP3320 - **Vulnerability Assessment and Penetration Testing** Tutor
 
 
+Honors and Awards
+======
+
+1. China National Scholarship, (During my bachelor study at Dalian University of Technology)
+2. Singapore MOE Tuition Grant Scheme, (During my master study at National University of Singapore)
+3. Richard Jago Memorial Prize, (During my PhD study at University of Queensland) 
+
+
+
 
 
 
