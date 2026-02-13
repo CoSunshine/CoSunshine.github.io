@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a Research Fellow at UoW, working under the supervision of [Prof. Willy Susilo](https://sites.google.com/view/willy-susilo/about-me). My research interest includes software testing, security and privacy of cloud system.
 
-I'm a PhD student from [School of EECS](https://eecs.uq.edu.au/), [University of Queensland](https://www.uq.edu.au/) (commenced from 2022/April). My research interest includes software testing, security and privacy of web-based system.
-
-I am very fortunate to be advised by [Prof. Guangdong Bai](https://baigd.github.io/), who currently lead the [TrustLab@UQ CSS](https://trustlab.uqcloud.net/). Prior to my PhD student journey, I obtained my Master's degree from National University of Sinagpore and Bachelor’s degree from Dalian University of Technology, both majoring in computer science.
+I obtained my Ph.D. at [University of Queensland](https://www.uq.edu.au/) in Dec. 2025, under the supervision of [Prof. Guangdong Bai](https://baigd.github.io/). 
+Prior to my PhD student journey, I obtained my Master's degree from National University of Sinagpore and Bachelor’s degree from Dalian University of Technology, both majoring in computer science.
 
 During my spare time, I enjoy swimming, biking and hiking. 
 
