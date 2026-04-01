@@ -18,6 +18,9 @@ During my spare time, I enjoy swimming, biking and hiking.
 
 Selected Publications
 ======
+[Unveiling AI-Driven Web Applications: Insights into Characteristics, Functionality, and Compliance.](https://CoSunshine.github.io/files/unveiling_AI-driven_security.pdf) \
+**Liuhuo Wan**, Zicong Liu, Chuan Yan, Liujia Wan, Naipeng Dong, Zi Huang, Guangdong Bai. ACM International Conference on the Foundations of Software Engineering. **FSE**'26
+
 [Understanding DevOps Security of Google Workspace Apps.](https://CoSunshine.github.io/files/understanding_DevOps_security.pdf) \
 **Liuhuo Wan**, Chuan Yan, Zicong Liu, Haoyu Wang, Guangdong Bai. International Conference on Software Engineering. **ICSE**'26
 
