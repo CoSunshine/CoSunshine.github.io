@@ -1,16 +1,30 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+{% assign talksByYear = site.talks | sort: 'date' | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% for year in talksByYear %}
+  <h2 style="margin-top: 1.5em; border-bottom: 2px solid #eee; padding-bottom: 0.2em;">{{ year.name }}</h2>
+  
+  <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
+  {% for talk in year.items %}
+    <li style="margin-bottom: 15px; padding: 10px; border-left: 3px solid #4a90e2; background-color: #f9f9f9;">
+      <div style="font-size: 1.1em; margin-bottom: 4px;">
+        <strong><a href="{{ talk.url }}" style="text-decoration: none; color: #333;">{{ talk.title }}</a></strong>
+      </div>
+      <div style="font-size: 0.95em; color: #555;">
+        {% if talk.type %} {{ talk.type }}, {% endif %}
+        <i>{{ talk.venue }}</i>
+        {% if talk.location %} &nbsp;|&nbsp; {{ talk.location }} {% endif %}
+        <span style="float: right; color: #888; font-size: 0.9em;">
+          {{ talk.date | date: "%b %d, %Y" }}
+        </span>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
