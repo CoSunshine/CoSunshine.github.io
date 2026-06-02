@@ -11,11 +11,13 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com.au/citations?user=4nWdmS4AAAAJ&hl=en">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% assign postsByYear = site.publications | sort: 'date' | reverse | group_by_exp: "post", "post.date | date: '%Y'" %}
+<p>Total publications found: {{ site.publications.size }}</p>
 
-{% for year in postsByYear %}
-  <h2 style="margin-top: 1.5em; border-bottom: 2px solid #eee; padding-bottom: 0.2em;">{{ year.name }}</h2>
-  
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+{% assign grouped_pubs = sorted_pubs | group_by_exp: "post", "post.date | date: '%Y'" %}
+
+{% for year in grouped_pubs %}
+  <h2>{{ year.name }}</h2>
   {% for post in year.items %}
     {% include archive-single.html %}
   {% endfor %}
