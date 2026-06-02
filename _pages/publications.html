@@ -5,20 +5,38 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
-{% else %}
-  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com.au/citations?user=4nWdmS4AAAAJ&hl=en">my Google Scholar profile</a>.</div>
-{% endif %}
-
-<p>Total publications found: {{ site.publications.size }}</p>
-
 {% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
 {% assign grouped_pubs = sorted_pubs | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in grouped_pubs %}
-  <h2>{{ year.name }}</h2>
+  <h2 style="margin-top: 1.5em; border-bottom: 2px solid #eee; padding-bottom: 0.2em;">{{ year.name }}</h2>
+  
+  <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
   {% for post in year.items %}
-    {% include archive-single.html %}
+    <li style="margin-bottom: 20px;">
+      <div style="font-size: 1.1em; font-weight: bold; color: #2c3e50; margin-bottom: 4px;">
+        {{ post.title }}
+      </div>
+      
+      <div style="font-size: 0.95em; color: #555; margin-bottom: 4px;">
+        {{ post.citation | split: '(' | first }}
+      </div>
+      
+      <div style="font-size: 0.9em; color: #7f8c8d; font-style: italic;">
+        {{ post.venue }} 
+        {% if post.content contains 'color:red' %}
+           <span style="color:red; font-style: normal; margin-left: 5px; font-weight: bold;">
+             {{ post.content | split: 'color:red">' | last | split: '</span>' | first }}
+           </span>
+        {% endif %}
+      </div>
+      
+      {% if post.paperurl %}
+      <div style="margin-top: 5px;">
+        <a href="{{ post.paperurl }}" style="color: #e67e22; font-size: 0.85em; text-decoration: underline;">[Download PDF]</a>
+      </div>
+      {% endif %}
+    </li>
   {% endfor %}
+  </ul>
 {% endfor %}
