@@ -18,6 +18,9 @@ During my spare time, I enjoy swimming, biking and hiking.
 
 Selected Publications
 ======
+[Beyond the Scope: Security Testing of Permission Management in Team Workspaces](https://ieeexplore.ieee.org/document/11615102/) \
+**Liuhuo Wan**, Chuan Yan, Zihan Wang, Mark Huasong Meng, Kailong Wang, Haoyu Wang, Guangdong Bai, Jin Song Dong. IEEE Transactions on Dependable and Secure Computing. **TDSC**'26
+
 [Unveiling AI-Driven Web Applications: Insights into Characteristics, Functionality, and Compliance.](https://CoSunshine.github.io/files/unveiling_AI-driven_security.pdf) \
 **Liuhuo Wan**, Zicong Liu, Chuan Yan, Liujia Wan, Naipeng Dong, Zi Huang, Guangdong Bai. ACM International Conference on the Foundations of Software Engineering. **FSE**'26
 
