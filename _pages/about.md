@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research Fellow at UoW, working under the supervision of [Prof. Willy Susilo](https://sites.google.com/view/willy-susilo/about-me). My research interest includes software testing, security and privacy of cloud system.
+I am currently a Research Fellow at UoW, working under the supervision of [Prof. Willy Susilo](https://sites.google.com/view/willy-susilo/about-me), [Siqi Ma](https://siqima.me/) and [Yudi Zhang](https://scholars.uow.edu.au/yudi-zhang). My research interest includes software testing, security and privacy of cloud system.
 
 I obtained my Ph.D. at [University of Queensland](https://www.uq.edu.au/) in Dec. 2025, under the supervision of [Prof. Guangdong Bai](https://baigd.github.io/). 
 Prior to my PhD student journey, I obtained my Master's degree from National University of Sinagpore and Bachelor’s degree from Dalian University of Technology, both majoring in computer science.
