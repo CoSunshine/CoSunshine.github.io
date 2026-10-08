@@ -47,6 +47,8 @@ Selected Publications
 Teaching
 ======
 
+2026: CSIT953  - **Emerging Topics in Cyber Security** Guest Lecturer
+
 2022: CSSE7610 - **Concurrency: Theory and Practice**  Tutor
 
 2023: COMP3320 - **Vulnerability Assessment and Penetration Testing** Tutor
